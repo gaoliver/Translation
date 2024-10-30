@@ -1,0 +1,1 @@
+Do not delete this folder while the program is running.
